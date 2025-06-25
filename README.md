@@ -104,15 +104,3 @@ voice-assistant-module/
 
 - **Backend:** FastAPI, gTTS, Uvicorn, etc.
 - **Frontend:** Next.js, React, TypeScript, TailwindCSS, etc.
-
----
-
-## Author
-
-- [Your Name or GitHub Profile]
-
----
-
-## License
-
-[MIT](LICENSE) or another license if needed.
