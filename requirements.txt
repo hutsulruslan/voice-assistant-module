@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+gtts
+python-dotenv
+pydantic
+langchain_community
+langchain_ollama
+langchain_chroma
+langchain
+# Optional, if you use CORS in FastAPI
+fastapi[all]
+# Optional, for working with static files
+aiofiles
+# Optional, for testing
+pytest
+httpx
